@@ -4,7 +4,7 @@ This repository contains implementations of various clustering algorithms using 
 
 # Algorithms Implemented
 
-Youtube : https://youtu.be/5cBHMIv5Vi8
+Youtube : https://youtu.be/un_lzeGhrNI
 
 1. K-Means Clustering
    
